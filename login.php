@@ -40,7 +40,7 @@
 
 
 <?php include_once("../views/footer1.php"); ?>
-<script src="../../js/script.js"></script>
+<script src="script.js"></script>
 
 </body>
 </html>
